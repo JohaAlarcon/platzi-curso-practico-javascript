@@ -15,3 +15,10 @@
 -2. Implementar las formulas en JavaScript.
 -3. Crear Funciones.
 -4. Integrar JavaScrip con HTML
+
+##Taller #3: Promedio, mediana y moda
+
+-1. definir las formulas
+-2. Implementar las formulas en JavaScript.
+-3. Crear Funciones.
+-4. Integrar JavaScrip con HTML
